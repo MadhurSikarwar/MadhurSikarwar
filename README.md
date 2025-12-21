@@ -1,120 +1,309 @@
-# <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=35&duration=3000&pause=500&color=00D9FF&width=550&lines=Hey%2C+I'm+Madhur;CS+Undergrad;AI%2FML+%7C+Backend+Systems;Solving+Real-World+Problems" alt="Typing SVG" />
-
-<div align="center">
-  <img src="https://github.com/MadhurSikarwar/MadhurSikarwar/raw/main/assets/wave.svg" width="100%" alt="Futuristic Wave Animation">
-</div>
-
----
-
-## 🎯 About Me
-
-I'm a Computer Science undergraduate passionate about **AI/ML applications**, **backend systems**, and using technology to solve environmental challenges. I combine strong mathematical foundations with hands-on systems engineering to build scalable, impactful solutions.
-
-**Core interests:**
-- 🤖 Machine Learning & Computer Vision for Earth observations
-- ⛓️ Blockchain & distributed systems  
-- 📡 IoT & embedded systems
-- 🌱 Environmental technology & climate tech
-
----
-
-## 🛠️ Tech Stack
-
 <div align="center">
 
-### Languages & Core Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sqlite&logoColor=white)
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=280&section=header&animation=fadeIn&fontAlignY=35" 
+    width="100%"
+    alt="Header Animation"
+  />
 
-### ML & Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+  <a href="https://git.io/typing-svg">
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&duration=2500&pause=500&color=00E5FF&center=true&vCenter=true&width=1000&height=60&lines=%3E+SUDO+LOGIN+USER%3A+MADHUR_SIKARWAR;%3E+ACCESS+GRANTED...+WELCOME+BACK%2C+ENGINEER.;%3E+INITIALIZING+NEURAL+NETWORKS...;%3E+LOADING+RVCE+DATABASES..." 
+      alt="Typing Title" 
+    />
+  </a>
 
-### Backend & Systems
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+  <a href="https://git.io/typing-svg">
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=2000&color=FF4D6D&center=true&vCenter=true&width=1000&height=40&lines=Target%3A+Sustainable+AI+%26+Secure+Systems;Mission%3A+Engineering+Intelligence+With+Purpose" 
+      alt="Mission Subtitle" 
+    />
+  </a>
 
-### IoT & Hardware
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Blockchain](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  <p align="center">
+    <img src="https://img.shields.io/badge/SYSTEM-ONLINE-success?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/ENCRYPTION-256_BIT-blue?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/LATENCY-12ms-yellow?style=for-the-badge" />
+    <img src="https://user-images.githubusercontent.com/74038190/212284158-9577c6c4-9b2f-41f2-95b2-243ee7d41506.gif" height="28" style="vertical-align: middle;" />
+  </p>
 
 </div>
 
----
+<br />
 
-## 📂 Featured Projects
+<img 
+  src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" 
+  width="100%"
+  alt="Separator"
+/>
 
-### 🌍 Algal Bloom Detection System
-**AI-powered satellite monitoring with real-time IoT sensors**
+<br />
 
-Developed an end-to-end system combining satellite imagery analysis with ESP32-based water quality sensors to detect harmful algal blooms in freshwater ecosystems. Uses computer vision models to identify bloom patterns and integrates environmental data collection for improved accuracy.
+<table align="center" width="98%" style="border: none; background-color: #0D1117;">
+  
+  <tr>
+    <td width="35%" align="center" valign="top">
+      
+      <img 
+        src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
+        width="95%" 
+        style="border-radius: 10px; border: 3px solid #00E5FF; box-shadow: 0 0 15px #00E5FF;"
+        alt="Holographic Avatar"
+      />
+      
+      <br /><br />
+      
+      <img 
+        src="https://img.shields.io/badge/Location-Bengaluru%2C_IN-7B2CBF?style=for-the-badge&logo=google-maps&logoColor=white" 
+        width="95%"
+      />
+      
+      <br /><br />
+      
+      <a href="https://www.linkedin.com/in/madhur-sikarwar-025b87342/">
+        <img 
+          src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
+          width="95%"
+        />
+      </a>
+      <br />
+      <a href="mailto:madhurrishis.is24@rvce.edu.in">
+        <img 
+          src="https://img.shields.io/badge/GMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white" 
+          width="95%"
+        />
+      </a>
 
-- **Tech:** Python, TensorFlow, OpenCV, ESP32, MQTT
-- **Impact:** Real-time environmental monitoring at scale
-- **Status:** 🔄 In Development
+    </td>
 
-### ⛓️ Secure Student Election System
-**Blockchain-based voting platform with cryptographic security**
+    <td width="65%" valign="top">
+      
+      <h3 align="left">
+        <img src="https://media.giphy.com/media/iY8CRBdQXODJSC92t2/giphy.gif" width="25" /> 
+        <span style="color: #00E5FF">USER_PROFILE.JSON</span>
+      </h3>
+      
+      <img 
+        src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=1&pause=1000&color=E0E0E0&background=0D111700&vCenter=false&multiline=true&width=600&height=220&lines=const+engineer+%3D+%7B;+++name%3A+%22Madhur+Sikarwar%22%2C;+++college%3A+%22R.V.+College+of+Engineering%22%2C;+++batch%3A+2028%2C;+++focus%3A+%5B%22AI%2FML%22%2C+%22IoT%22%2C+%22Blockchain%22%5D%2C;+++status%3A+%22Compiling+Knowledge...%22;%7D;+;function+solveProblems()+%7B;+++return+%22Impact+over+Complexity%22;%7D" 
+        alt="Code Snippet" 
+      />
 
-Designed and implemented a distributed voting system leveraging blockchain technology to ensure election integrity, transparency, and immutability. Features encrypted ballot casting and smart contract-based result verification.
+      <br />
+      <div style="background-color: #000; padding: 10px; border-radius: 5px; font-family: monospace; color: #00FF00; font-size: 12px; line-height: 1.2;">
+        root@madhur-pc:~$ ping -c 3 skills.exe<br />
+        PING skills.exe (127.0.0.1) 56(84) bytes of data.<br />
+        64 bytes from math: icmp_seq=1 ttl=64 time=0.034 ms<br />
+        64 bytes from chem: icmp_seq=2 ttl=64 time=0.041 ms<br />
+        64 bytes from code: icmp_seq=3 ttl=64 time=0.038 ms<br />
+        <br />
+        --- skills.exe ping statistics ---<br />
+        3 packets transmitted, 3 received, 0% packet loss
+      </div>
 
-- **Tech:** Solidity, Web3.js, Ethereum, Node.js, React
-- **Focus:** Security, transparency, decentralization
-- **Status:** ✅ Deployed
+    </td>
+  </tr>
+</table>
 
----
+<br />
 
-## 📊 GitHub Analytics
+<h2 align="center">
+  <img 
+    src="https://media.giphy.com/media/QssGEmpjguRhm/giphy.gif" 
+    width="30" 
+    style="vertical-align: middle"
+  /> 
+  <span style="color: #7B2CBF">ACTIVE_ARSENAL</span>
+</h2>
 
 <div align="center">
   
-[![Madhur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MadhurSikarwar&show_icons=true&theme=tokyonight&hide_border=false&border_color=00D9FF&bg_color=0a0e27&title_color=00D9FF&icon_color=FF006E&text_color=a0aec0)](https://github.com/MadhurSikarwar)
+  <p style="color: #C9D1D9; letter-spacing: 2px;">
+    // LANGUAGES & CORE //
+  </p>
+  <img 
+    src="https://skillicons.dev/icons?i=python,cpp,c,java,js,solidity,html,css,bash,matlab&theme=dark&perline=10" 
+    alt="Language Icons"
+  />
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MadhurSikarwar&layout=compact&theme=tokyonight&hide_border=false&border_color=7B2CBF&bg_color=0a0e27&title_color=00D9FF&text_color=a0aec0)](https://github.com/MadhurSikarwar)
+  <br /><br />
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MadhurSikarwar&theme=tokyonight&hide_border=false&border_color=00D9FF&background=0a0e27&stroke=00D9FF&fire=FF006E)](https://github.com/MadhurSikarwar)
+  <p style="color: #C9D1D9; letter-spacing: 2px;">
+    // INTELLIGENCE & DATA //
+  </p>
+  <img 
+    src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,scikitlearn,pandas,numpy,anaconda,jupyter&theme=dark&perline=10" 
+    alt="AI Icons"
+  />
+
+  <br /><br />
+
+  <p style="color: #C9D1D9; letter-spacing: 2px;">
+    // SYSTEM INFRASTRUCTURE //
+  </p>
+  <img 
+    src="https://skillicons.dev/icons?i=git,docker,linux,arduino,firebase,mysql,mongodb,postman,nodejs,react&theme=dark&perline=10" 
+    alt="Tool Icons"
+  />
 
 </div>
+
+<br />
+
+<img 
+  src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" 
+  width="100%"
+/>
+
+<br />
+
+<h2 align="center">
+  <img 
+    src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" 
+    width="30" 
+    style="vertical-align: middle"
+  /> 
+  <span style="color: #FF4D6D">DEPLOYMENT_LOGS</span>
+</h2>
+
+<table align="center" width="100%" style="border: none;">
+
+  <tr>
+    <td width="100%">
+      <details>
+        <summary>
+          <img 
+            src="https://img.shields.io/badge/PROJECT-ALGAL_BLOOM_DETECTION-00E5FF?style=flat-square&logo=python&logoColor=white" 
+          />
+          <b>&nbsp; [ Environmental Intelligence ]</b>
+        </summary>
+        <br />
+        <blockquote>
+          <b>MISSION:</b> Detect harmful algal blooms using satellite data + ground sensors.
+          <br /><br />
+          <table>
+            <tr>
+              <td><b>Satellite</b></td>
+              <td>Sentinel-2 Imagery processed via Google Earth Engine</td>
+            </tr>
+            <tr>
+              <td><b>Sensor Node</b></td>
+              <td>ESP32 + Turbidity/pH Sensors (IoT)</td>
+            </tr>
+            <tr>
+              <td><b>Brain</b></td>
+              <td>TensorFlow + OpenCV for prediction models</td>
+            </tr>
+          </table>
+          <br />
+          <img src="https://img.shields.io/badge/Status-Developing-orange" />
+        </blockquote>
+      </details>
+    </td>
+  </tr>
+
+  <tr><td></td></tr>
+
+  <tr>
+    <td width="100%">
+      <details>
+        <summary>
+          <img 
+            src="https://img.shields.io/badge/PROJECT-SECURE_ELECTION_DAO-7B2CBF?style=flat-square&logo=ethereum&logoColor=white" 
+          />
+          <b>&nbsp; [ Decentralized Governance ]</b>
+        </summary>
+        <br />
+        <blockquote>
+          <b>MISSION:</b> Create a tamper-proof voting system for student bodies.
+          <br /><br />
+          <table>
+            <tr>
+              <td><b>Blockchain</b></td>
+              <td>Ethereum (Solidity Smart Contracts)</td>
+            </tr>
+            <tr>
+              <td><b>Auth</b></td>
+              <td>Metamask Wallet + Student ID Hash</td>
+            </tr>
+            <tr>
+              <td><b>Frontend</b></td>
+              <td>React + Web3.js</td>
+            </tr>
+          </table>
+          <br />
+          <img src="https://img.shields.io/badge/Status-Prototype_Complete-success" />
+        </blockquote>
+      </details>
+    </td>
+  </tr>
+
+</table>
+
+<br />
+
+<h2 align="center">
+  <img 
+    src="https://media.giphy.com/media/26tn33aiU1jGWEOwU/giphy.gif" 
+    width="30" 
+    style="vertical-align: middle"
+  /> 
+  <span style="color: #00E5FF">TELEMETRY_DATA</span>
+</h2>
 
 <div align="center">
-  <img src="https://github.com/MadhurSikarwar/MadhurSikarwar/raw/main/assets/contribution-snake.svg" width="100%" alt="Contribution Snake"/>
+  
+  <p>
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img 
+        src="https://github-profile-trophy.vercel.app/?username=MadhurSikarwar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" 
+        alt="Trophy Case"
+      />
+    </a>
+  </p>
+
+  <br />
+
+  <p>
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=MadhurSikarwar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=FF4D6D&text_color=C9D1D9&rank_icon=github" 
+      height="170"
+      alt="Stats"
+    />
+    <img 
+      src="https://github-readme-streak-stats.herokuapp.com?user=MadhurSikarwar&theme=tokyonight&hide_border=true&background=0D1117&stroke=00E5FF&fire=FF4D6D&ring=7B2CBF" 
+      height="170"
+      alt="Streaks"
+    />
+  </p>
+
+  <p>
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhurSikarwar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&langs_count=8" 
+      width="80%"
+      alt="Languages"
+    />
+  </p>
+
+  <p>
+    <img 
+      src="https://github.com/MadhurSikarwar/MadhurSikarwar/raw/main/assets/contribution-snake.svg" 
+      width="100%"
+      alt="Snake Animation"
+    />
+  </p>
+
 </div>
 
----
+<br />
 
-## 🚀 Currently Exploring
+<h2 align="center">
+  <img 
+    src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" 
+    width="30" 
+    style="vertical-align: middle"
+  /> 
+  <span style="color: #7B2CBF">PROCESS_MONITOR_V2.0</span>
+</h2>
 
-- **Federated Learning** for privacy-preserving ML models
-- **Advanced backend optimization** and distributed systems patterns
-- **Climate tech applications** using satellite data & ML
-- **Smart contract auditing** and security best practices
-
----
-
-## 📬 Connect With Me
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madhur.sikarwar@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/madhursikarwar)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MadhurSikarwar)
-
-</div>
-
----
-
-<div align="center">
-  <i>Always learning, always building. Open to collaborating on impactful projects.</i>
-</div>
+<img 
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=1&pause=1000&color=00E5FF&background=0D111700&vCenter=false&multiline=true&width=800&height=180&lines=%E2%95%94%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E
