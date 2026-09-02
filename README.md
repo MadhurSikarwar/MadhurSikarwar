@@ -104,15 +104,14 @@ class Developer(Engineer):
   </tr>
   <tr>
     <td width="100%" colspan="2" valign="top">
-      <h3 align="center">🎵 Audio DSP Pipeline</h3>
-      <p align="center"><i>Real-Time Music Feature Extraction</i></p>
+      <h3 align="center">🎵 Swarlaya Music</h3>
+      <p align="center"><i>AI Stem Separator & Classical Player</i></p>
       <div align="center">
-        <!-- Replace "Music-Analysis" below if your repository has a different name -->
-        <a href="https://github.com/MadhurSikarwar/Music-Analysis"><img src="https://github-stats-extended.vercel.app/api/pin/?username=MadhurSikarwar&repo=Music-Analysis&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=00E5FF" /></a>
+        <a href="https://github.com/MadhurSikarwar/Swarlaya-Music"><img src="https://github-stats-extended.vercel.app/api/pin/?username=MadhurSikarwar&repo=Swarlaya-Music&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=00E5FF" /></a>
       </div>
       <br>
-      <b>Tech:</b> <code>Python</code> <code>Librosa</code> <code>NumPy</code> <code>SciPy</code><br>
-      <b>Why it matters:</b> Built a DSP pipeline applying Fast Fourier Transforms (FFT) and Short-Time Fourier Transforms (STFT) for time-frequency analysis. Extracts MFCCs, spectral centroids, and zero-crossing rates.
+      <b>Tech:</b> <code>C++</code> <code>Python</code> <code>Next.js</code> <code>WebAudio API</code><br>
+      <b>Why it matters:</b> Engineered a hybrid client-server architecture using the Demucs deep learning model for separating 6-track audio stems. Features a real-time, zero-drift pitch shifting WebAudio player for Indian Classical Riyaz.
     </td>
   </tr>
 </table>
