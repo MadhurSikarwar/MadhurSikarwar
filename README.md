@@ -11,7 +11,6 @@
 <a href="mailto:madhurrishis.is24@rvce.edu.in"><img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=00E5FF&border=00E5FF" /></a>
 <a href="https://www.linkedin.com/in/madhur-sikarwar-025b87342/"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=00E5FF&border=00E5FF" /></a>
 <a href="https://github.com/MadhurSikarwar"><img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=00E5FF&border=00E5FF" /></a>
-<img src="https://komarev.com/ghpvc/?username=MadhurSikarwar&style=for-the-badge&color=0F172A&labelColor=0F172A&label=VIEWS&logo=eye&logoColor=00E5FF" />
 
 </div>
 
@@ -71,7 +70,7 @@ class Developer(Engineer):
     <td width="50%" valign="top">
       <h3 align="center">🔴 ResQMesh</h3>
       <p align="center"><i>Infrastructure-less Disaster Network</i></p>
-      <a href="https://github.com/Bhavya-Chawat/ResQMesh"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhavya-Chawat&repo=ResQMesh&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=00E5FF" /></a>
+      <a href="https://github.com/Bhavya-Chawat/ResQMesh"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Bhavya-Chawat&repo=ResQMesh&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=00E5FF" /></a>
       <br>
       <b>Tech:</b> <code>C++</code> <code>ESP32</code> <code>React</code> <code>FastAPI</code><br>
       <b>Why it matters:</b> Engineered a custom Bellman-Ford routing protocol with poison-reverse for self-healing ESP32 mesh networks. Includes a QoS firmware scheduler prioritizing SOS packets.
@@ -79,7 +78,7 @@ class Developer(Engineer):
     <td width="50%" valign="top">
       <h3 align="center">🛡️ SecureGraph</h3>
       <p align="center"><i>Attack Path & Vulnerability Analyzer</i></p>
-      <a href="https://github.com/MadhurSikarwar/DAA-PBL"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MadhurSikarwar&repo=DAA-PBL&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=00E5FF" /></a>
+      <a href="https://github.com/MadhurSikarwar/DAA-PBL"><img src="https://github-stats-extended.vercel.app/api/pin/?username=MadhurSikarwar&repo=DAA-PBL&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=00E5FF" /></a>
       <br>
       <b>Tech:</b> <code>Python</code> <code>React Flow</code> <code>Algorithms</code><br>
       <b>Why it matters:</b> Simulates enterprise cyber-attacks using Dijkstra, Floyd-Warshall, and Topological Sort. Optimizes defense budgets using 0/1 Knapsack and Branch & Bound.
@@ -89,7 +88,7 @@ class Developer(Engineer):
     <td width="50%" valign="top">
       <h3 align="center">📈 fIndia-AI</h3>
       <p align="center"><i>Financial Market NLP Pipeline</i></p>
-      <a href="https://github.com/thinbearr/fIndia-AI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=thinbearr&repo=fIndia-AI&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=00E5FF" /></a>
+      <a href="https://github.com/thinbearr/fIndia-AI"><img src="https://github-stats-extended.vercel.app/api/pin/?username=thinbearr&repo=fIndia-AI&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=00E5FF" /></a>
       <br>
       <b>Tech:</b> <code>PyTorch</code> <code>FinBERT</code> <code>Pandas</code><br>
       <b>Why it matters:</b> A domain-adapted transformer pipeline replacing manual sentiment labeling. Processes financial headlines via batch-inference and correlates sentiment with live asset prices.
@@ -97,7 +96,7 @@ class Developer(Engineer):
     <td width="50%" valign="top">
       <h3 align="center">🗳️ Decentralized Election</h3>
       <p align="center"><i>On-Chain Voting Protocol</i></p>
-      <a href="https://github.com/MadhurSikarwar/DTL-Student-Election-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MadhurSikarwar&repo=DTL-Student-Election-&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=00E5FF" /></a>
+      <a href="https://github.com/MadhurSikarwar/DTL-Student-Election-"><img src="https://github-stats-extended.vercel.app/api/pin/?username=MadhurSikarwar&repo=DTL-Student-Election-&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=00E5FF" /></a>
       <br>
       <b>Tech:</b> <code>Solidity</code> <code>Ethereum</code> <code>Truffle</code><br>
       <b>Why it matters:</b> Eliminates central authority in student elections. Features MetaMask auth, anonymous tamper-proof tallying, and gas-optimized contracts deployed to Sepolia testnet.
@@ -109,7 +108,7 @@ class Developer(Engineer):
       <p align="center"><i>Real-Time Music Feature Extraction</i></p>
       <div align="center">
         <!-- Replace "Music-Analysis" below if your repository has a different name -->
-        <a href="https://github.com/MadhurSikarwar/Music-Analysis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MadhurSikarwar&repo=Music-Analysis&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=00E5FF" /></a>
+        <a href="https://github.com/MadhurSikarwar/Music-Analysis"><img src="https://github-stats-extended.vercel.app/api/pin/?username=MadhurSikarwar&repo=Music-Analysis&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=00E5FF" /></a>
       </div>
       <br>
       <b>Tech:</b> <code>Python</code> <code>Librosa</code> <code>NumPy</code> <code>SciPy</code><br>
@@ -123,14 +122,14 @@ class Developer(Engineer):
 ### 📊 Telemetry & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MadhurSikarwar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=00E5FF&icon_color=7B2CBF&text_color=94A3B8&include_all_commits=true&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhurSikarwar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=00E5FF&text_color=94A3B8&langs_count=6" height="180" />
+  <img src="https://github-stats-extended.vercel.app/api?username=MadhurSikarwar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=00E5FF&icon_color=7B2CBF&text_color=94A3B8&include_all_commits=true&count_private=true" height="180" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=MadhurSikarwar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=00E5FF&text_color=94A3B8&langs_count=6" height="180" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MadhurSikarwar&theme=tokyo-night&hide_border=true&bg_color=0F172A&color=00E5FF&line=7B2CBF&point=FF4D6D&area=true&area_color=1E1B4B" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MadhurSikarwar&theme=tokyonight&hide_border=true&background=0F172A&stroke=00E5FF&fire=FF4D6D&ring=7B2CBF&currStreakLabel=00E5FF" width="100%" />
 </div>
 
 ---
