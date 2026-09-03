@@ -19,25 +19,32 @@
 ### 💻 `whoami`
 
 ```python
-class Developer(Engineer):
-    def __init__(self):
-        self.name = "Madhur Rishi Sikarwar"
-        self.education = "B.E. Information Science @ RVCE (CGPA: 9.37)"
-        self.focus = ["Embedded Systems", "Machine Learning", "Distributed Networks"]
-        self.philosophy = "Own the system end-to-end — from firmware to UI."
+class Developer : public Engineer {
+public:
+    Developer() {
+        name = "Madhur Rishi Sikarwar";
+        education = "B.E. Information Science @ RVCE (CGPA: 9.37)";
+        focus = {"Embedded Systems", "Machine Learning", "Distributed Networks"};
+        philosophy = "Own the system end-to-end — from firmware to UI.";
+    }
 
-    def get_current_status(self):
+    auto get_current_status() {
         return {
-            "Building": "Self-healing ESP32 mesh networks",
-            "Training": "Domain-adapted NLP models (FinBERT)",
-            "Exploring": "Federated learning & Smart contract security"
-        }
+            {"Building", "Self-healing ESP32 mesh networks"},
+            {"Training", "Domain-adapted NLP models (FinBERT)"},
+            {"Exploring", "Federated learning & Smart contract security"}
+        };
+    }
 
-    def execute(self):
-        while True:
-            self.learn()
-            self.build()
-            self.optimize()
+    void execute() {
+        while (true) {
+            learn();
+            build();
+            optimize();
+        }
+    }
+};
+
 ```
 
 ---
