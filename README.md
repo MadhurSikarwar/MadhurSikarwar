@@ -1,157 +1,106 @@
-<div align="center">
+# Madhur Rishi Sikarwar
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E1B4B,100:0F172A&height=250&section=header&text=Madhur%20Rishi%20Sikarwar&fontSize=52&fontColor=00E5FF&fontAlignY=35&desc=Systems%20%7C%20AI%20%7C%20Blockchain&descAlignY=55&descSize=18&animation=fadeIn&stroke=7B2CBF&strokeWidth=2" />
+*Building systems that survive the real world.*
 
-<a href="https://github.com/MadhurSikarwar">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=7B2CBF&center=true&vCenter=true&width=800&height=50&lines=Building+systems+that+survive+the+real+world.;Firmware+->+Backend+->+ML+->+Blockchain.;Engineering+with+purpose.+Research+over+hype." alt="Typing SVG" />
-</a>
+B.E. Information Science at RVCE, class of 2028. I like owning a system end to end: the firmware, the backend, the model, and the screen it all ends up on.
 
-<br>
-
-<a href="mailto:madhurrishis.is24@rvce.edu.in"><img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=00E5FF&border=00E5FF" /></a>
-<a href="https://www.linkedin.com/in/madhur-sikarwar-025b87342/"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=00E5FF&border=00E5FF" /></a>
-<a href="https://github.com/MadhurSikarwar"><img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=00E5FF&border=00E5FF" /></a>
-
-</div>
+[Email](mailto:madhurrishis.is24@rvce.edu.in) · [LinkedIn](https://www.linkedin.com/in/madhur-sikarwar-025b87342/) · [GitHub](https://github.com/MadhurSikarwar)
 
 ---
 
-### 💻 `whoami`
-
-```python
+```cpp
 class Developer : public Engineer {
 public:
     Developer() {
-        name = "Madhur Rishi Sikarwar";
-        education = "B.E. Information Science @ RVCE (CGPA: 9.37)";
-        focus = {"Embedded Systems", "Machine Learning", "Distributed Networks"};
-        philosophy = "Own the system end-to-end — from firmware to UI.";
-    }
-
-    auto get_current_status() {
-        return {
-            {"Building", "Self-healing ESP32 mesh networks"},
-            {"Training", "Domain-adapted NLP models (FinBERT)"},
-            {"Exploring", "Federated learning & Smart contract security"}
-        };
+        name       = "Madhur Rishi Sikarwar";
+        education  = "B.E. Information Science @ RVCE (CGPA: 9.37)";
+        focus      = {"Embedded Systems", "Machine Learning", "Distributed Systems"};
+        philosophy = "Own the system end to end, from firmware to UI.";
     }
 
     void execute() {
-        while (true) {
-            learn();
-            build();
-            optimize();
-        }
+        while (true) { learn(); build(); optimize(); }
     }
 };
+```
 
+## Now
+
+- Building self-healing ESP32 mesh networks
+- Training domain-adapted NLP models (FinBERT)
+- Exploring federated learning and smart-contract security
+- Polishing **OrbitWatch**, below
+
+---
+
+## Featured
+
+### OrbitWatch: satellite and space-debris tracking with close-approach alerts
+
+A database-systems project at RVCE, built with [Mayur M Deekshith](https://github.com/MayurDeekshith). It keeps a catalogue of 35,000+ space objects, about 32,000 of them with live orbits, and shows them on a 3D globe. Every few hours it screens a watchlist of satellites for close approaches and works out the probability of collision for each one. For the risky ones, an LLM agent plans an avoidance burn, but only from deterministic physics tools, behind guardrails, and a person has to approve it. It then explains its answer twice: in plain words, and in the original technical wording.
+
+- **Data:** MySQL 8.4 with a separate database account per role (viewer, analyst, admin), and a sharded MongoDB (2 shards, 3 replicas each) for orbit history
+- **Backend:** Python, Flask, SGP4 orbit propagation, scheduled jobs, live updates over server-sent events
+- **Front end:** vanilla ES modules, CesiumJS globe, a time scrubber, ground tracks, a command palette, a clean accessibility audit
+- **Quality:** 170 tests, and a mail guard that stops tests from ever reaching a real inbox
+
+[Repository](https://github.com/MadhurSikarwar/GDGSpaceTech) · [Demo video](https://www.youtube.com/watch?v=Be4tBh7HUjg)
+
+---
+
+## Work
+
+### Systems and IoT
+
+| Project | What it does | Built with |
+|---|---|---|
+| [ResQMesh](https://github.com/Bhavya-Chawat/ResQMesh) | A disaster network that needs no infrastructure. A self-healing ESP32 mesh with a custom Bellman-Ford routing protocol (poison reverse) and a firmware scheduler that sends SOS packets first. | C++, ESP32, React, FastAPI |
+| [AeroSense](https://github.com/MadhurSikarwar/IOT_PBL) | Measures how stagnant a room's air is by fitting how fast VOC gas decays after a pulse. Reports air changes per hour and a stagnation score. | ESP32, MQ135, FastAPI, WebSockets |
+| [Algal bloom dashboard](https://github.com/MadhurSikarwar/Algal-Bloom-Prediction) | Water-quality sensors (pH, turbidity, TDS, dissolved oxygen) feed a live dashboard that estimates bloom probability, with alerts and PDF/CSV export. | ESP32, ThingSpeak, JavaScript |
+| [ECOSAT](https://github.com/MadhurSikarwar/Algal-Bloom-Satellite) | Algal-bloom risk platform that combines a satellite-based model with an offline sensor-based one. | Web |
+| [File Integrity Checker](https://github.com/MadhurSikarwar/File-Integrity-Checker) | A desktop security tool with 18 features: baseline snapshots, change detection and a real-time directory watchdog. | C, GTK3, SQLite, OpenSSL |
+
+### AI and data
+
+| Project | What it does | Built with |
+|---|---|---|
+| [fIndia-AI](https://github.com/thinbearr/fIndia-AI) | FinBERT adapted to Indian financial text. Runs batch inference over headlines and correlates sentiment with live asset prices. | PyTorch, FinBERT, Pandas |
+| [TideLine](https://github.com/MadhurSikarwar/SustainX-Hackathon) | Coastal pollution early warning for UN SDG 14. Five signals become one 0 to 100 risk score per hotspot, and Groq agents explain the score but never override it. | React, FastAPI, PostGIS, Groq |
+| [Suraksha Intelligence](https://github.com/MadhurSikarwar/Suraksha-Hackathon) | Hackathon project: a multi-modal AI pipeline that checks property title deeds for forgery, aimed at Indian banks. | Python |
+| [Cheating detection](https://github.com/MadhurSikarwar/Emotion-Tracking-Hacknite-Hackathon-) | Flags cheating from emotion and eye-movement tracking (Hacknite hackathon). | Python |
+| [IntelliReview](https://github.com/MadhurSikarwar/C---Java-Code-Reviewer) | A static analyzer for C, C++ and Java. Control-flow, pointer-state and taint analysis plus ML models; it returns the risky lines, why, the fix and a risk verdict. | Python, pycparser, javalang |
+
+### Developer tools
+
+| Project | What it does | Built with |
+|---|---|---|
+| [CodeLens](https://github.com/MadhurSikarwar/CodeDebugger) | Records a run of a Python, JavaScript, TypeScript, Java, C or C++ program and animates the stack, heap and pointers. The debugger steps backwards as easily as forwards. | TypeScript, React, gdb, JDI |
+| [SecureGraph](https://github.com/MadhurSikarwar/DAA-PBL) | Simulates enterprise cyber-attacks with Dijkstra, Floyd-Warshall and topological sort, and allocates a defence budget with 0/1 knapsack and branch and bound. | Python, React Flow |
+| [Downloader](https://github.com/MadhurSikarwar/Downloader) | A desktop video and audio downloader with a Tkinter interface on yt-dlp. | Python |
+
+### Web, games and sound
+
+| Project | What it does | Built with |
+|---|---|---|
+| [Swaralaya](https://github.com/MadhurSikarwar/Swarlaya-Music) | A practice studio for Indian classical music: real-time pitch shifting in the browser, a C++ (Drogon) service, and Demucs splitting songs into six stems. | C++, Python, Next.js, Web Audio |
+| [TOOL](https://github.com/MadhurSikarwar/TOOL) | An audio-reactive 3D visualizer: 80,000 GPU particles and a kaleidoscopic shader driven by live frequency analysis, in six visual modes. | TypeScript, GPU shaders |
+| [KRAKEN: Dead Signal](https://github.com/MadhurSikarwar/PromptArcade) | A 2D cyberpunk survival-horror game. Hacking the facility makes noise that draws the octopus hunting you. [Play it](https://prompt-arcade-gilt.vercel.app) | TypeScript, Phaser 3 |
+| [Decentralized Election](https://github.com/MadhurSikarwar/DTL-Student-Election-) | An on-chain student election with MetaMask login, anonymous tamper-proof tallying and gas-optimised contracts on Sepolia. | Solidity, Truffle, Ethereum |
+
+Also on my GitHub: data structures practice in C++, C programming, a logic gate simulator, an expense tracker, and IoT lab work.
+
+---
+
+## Stack
+
+```text
+languages   C++ · C · Python · Java · TypeScript · JavaScript · SQL · Solidity
+embedded    ESP32 · Arduino · sensors · Linux
+ml          PyTorch · TensorFlow · scikit-learn · FinBERT · Demucs
+data        MySQL · PostgreSQL · MongoDB
+web         React · Next.js · FastAPI · Flask · CesiumJS · Phaser
 ```
 
 ---
 
-### ⚙️ System Architecture (Tech Stack)
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="25%"><b>Low-Level & Hardware</b></td>
-      <td align="center" width="25%"><b>Core Languages</b></td>
-      <td align="center" width="25%"><b>AI & Data</b></td>
-      <td align="center" width="25%"><b>Web & Web3</b></td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://skillicons.dev/icons?i=cpp,arduino,linux&perline=3" /></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=py,java,ts&perline=3" /></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,postgres&perline=3" /></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=react,fastapi,solidity&perline=3" /></td>
-    </tr>
-  </table>
-</div>
-
----
-
-### 🚀 Production Highlights
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🔴 ResQMesh</h3>
-      <p align="center"><i>Infrastructure-less Disaster Network</i></p>
-      <a href="https://github.com/Bhavya-Chawat/ResQMesh"><img src="https://github-stats-extended.vercel.app/api/pin/?username=Bhavya-Chawat&repo=ResQMesh&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=00E5FF" /></a>
-      <br>
-      <b>Tech:</b> <code>C++</code> <code>ESP32</code> <code>React</code> <code>FastAPI</code><br>
-      <b>Why it matters:</b> Engineered a custom Bellman-Ford routing protocol with poison-reverse for self-healing ESP32 mesh networks. Includes a QoS firmware scheduler prioritizing SOS packets.
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🛡️ SecureGraph</h3>
-      <p align="center"><i>Attack Path & Vulnerability Analyzer</i></p>
-      <a href="https://github.com/MadhurSikarwar/DAA-PBL"><img src="https://github-stats-extended.vercel.app/api/pin/?username=MadhurSikarwar&repo=DAA-PBL&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=00E5FF" /></a>
-      <br>
-      <b>Tech:</b> <code>Python</code> <code>React Flow</code> <code>Algorithms</code><br>
-      <b>Why it matters:</b> Simulates enterprise cyber-attacks using Dijkstra, Floyd-Warshall, and Topological Sort. Optimizes defense budgets using 0/1 Knapsack and Branch & Bound.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">📈 fIndia-AI</h3>
-      <p align="center"><i>Financial Market NLP Pipeline</i></p>
-      <a href="https://github.com/thinbearr/fIndia-AI"><img src="https://github-stats-extended.vercel.app/api/pin/?username=thinbearr&repo=fIndia-AI&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=00E5FF" /></a>
-      <br>
-      <b>Tech:</b> <code>PyTorch</code> <code>FinBERT</code> <code>Pandas</code><br>
-      <b>Why it matters:</b> A domain-adapted transformer pipeline replacing manual sentiment labeling. Processes financial headlines via batch-inference and correlates sentiment with live asset prices.
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🗳️ Decentralized Election</h3>
-      <p align="center"><i>On-Chain Voting Protocol</i></p>
-      <a href="https://github.com/MadhurSikarwar/DTL-Student-Election-"><img src="https://github-stats-extended.vercel.app/api/pin/?username=MadhurSikarwar&repo=DTL-Student-Election-&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=00E5FF" /></a>
-      <br>
-      <b>Tech:</b> <code>Solidity</code> <code>Ethereum</code> <code>Truffle</code><br>
-      <b>Why it matters:</b> Eliminates central authority in student elections. Features MetaMask auth, anonymous tamper-proof tallying, and gas-optimized contracts deployed to Sepolia testnet.
-    </td>
-  </tr>
-  <tr>
-    <td width="100%" colspan="2" valign="top">
-      <h3 align="center">🎵 Swarlaya Music</h3>
-      <p align="center"><i>AI Stem Separator & Classical Player</i></p>
-      <div align="center">
-        <a href="https://github.com/MadhurSikarwar/Swarlaya-Music"><img src="https://github-stats-extended.vercel.app/api/pin/?username=MadhurSikarwar&repo=Swarlaya-Music&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=00E5FF" /></a>
-      </div>
-      <br>
-      <b>Tech:</b> <code>C++</code> <code>Python</code> <code>Next.js</code> <code>WebAudio API</code><br>
-      <b>Why it matters:</b> Engineered a hybrid client-server architecture using the Demucs deep learning model for separating 6-track audio stems. Features a real-time, zero-drift pitch shifting WebAudio player for Indian Classical Riyaz.
-    </td>
-  </tr>
-</table>
-
----
-
-### 📊 Telemetry & Activity
-
-<div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=MadhurSikarwar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=00E5FF&icon_color=7B2CBF&text_color=94A3B8&include_all_commits=true&count_private=true" height="180" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=MadhurSikarwar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=00E5FF&text_color=94A3B8&langs_count=6" height="180" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MadhurSikarwar&theme=tokyonight&hide_border=true&background=0F172A&stroke=00E5FF&fire=FF4D6D&ring=7B2CBF&currStreakLabel=00E5FF" width="100%" />
-</div>
-
----
-
-### 🐍 Contribution Network (Live)
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MadhurSikarwar/MadhurSikarwar/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MadhurSikarwar/MadhurSikarwar/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/MadhurSikarwar/MadhurSikarwar/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E1B4B,100:0F172A&height=100&section=footer&animation=fadeIn" />
-</div>
+<sub>Engineering with purpose. Research over hype.</sub>
