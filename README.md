@@ -8,8 +8,6 @@
 
 <p align="center"><a href="https://github.com/MadhurSikarwar/GDGSpaceTech"><picture><source media="(max-width: 640px)" srcset="assets/orbitwatch-m.svg"><img src="assets/orbitwatch.svg" alt="OrbitWatch: satellite and space-debris tracking with close-approach alerts. 35,503 objects catalogued, 32,510 with live orbits, MongoDB in 2 shards of 3 replicas, 170 automated tests." width="100%"></picture></a></p>
 
-<p align="center">Built with Mayur M Deekshith · MySQL with a database account per role, sharded MongoDB, Flask, SGP4, CesiumJS · <a href="https://github.com/MadhurSikarwar/GDGSpaceTech">Repository</a> · <a href="https://www.youtube.com/watch?v=Be4tBh7HUjg">Demo video</a></p>
-
 <p><picture><source media="(max-width: 640px)" srcset="assets/div-index-m.svg"><img src="assets/div-index.svg" alt="Work index" width="100%"></picture></p>
 
 <p align="center"><picture><source media="(max-width: 640px)" srcset="assets/index-m.svg"><img src="assets/index.svg" alt="Work index: 11 projects in four areas. Systems + IoT: ResQMesh, Algal bloom, ECOSAT. Ai + Data: fIndia-AI, Suraksha, Cheating detection. Developer Tools: File Integrity, Downloader. Web + Sound: Swaralaya, TOOL, KRAKEN." width="100%"></picture></p>
